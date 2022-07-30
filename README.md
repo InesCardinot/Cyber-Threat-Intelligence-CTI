@@ -1,6 +1,6 @@
 # Cyber Threat Intelligence - CTI
 
-Esse repositório contém informações de fundamentos e guia de estudos sobre a área de Cyber Threat Intelligence-CTI 
+Esse repositório contém um guia de estudos e conceitos sobre a área de Cyber Threat Intelligence-CTI 
 
 ---
 
